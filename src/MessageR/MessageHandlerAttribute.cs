@@ -1,4 +1,6 @@
-﻿namespace MessageR;
+﻿using System;
+
+namespace MessageR;
 
 public class MessageHandlerAttribute: Attribute
 {
